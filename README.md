@@ -132,10 +132,11 @@ O dashboard foi construído no Power BI com foco em **análise exploratória e s
 ```
 📁 tech-challenge
 │
-├── 📄 tratamento_dados.py
-├── 📄 dataset_tratado.csv
-├── 📊 dashboard.pbix
-├── 📊 analise.xlsx
+├── 📄 data/raw
+        ├── processed
+├── 📄 tech_challenge_olist_dashboard.xlsx
+├── 📊 tech_challenge_final.pbix
+├── 📊 tech_challenge_olist.ipynb
 └── 📄 README.md
 ```
 
